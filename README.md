@@ -25,7 +25,7 @@ Git clone https://github.com/JHectorZ/keylogger-python-mail.git
 cd keylogger-python-mail
 ```
 
-## requisites
+## Requisites
 
 They must have installed the modules keyboard and pyinstaller.
 
